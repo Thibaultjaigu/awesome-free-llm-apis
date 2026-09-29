@@ -1131,7 +1131,7 @@
           "id": "nvidia/nemotron-3-ultra-550b-a55b",
           "name": "nvidia/nemotron-3-ultra-550b-a55b",
           "context": "1M",
-          "maxOutput": "65K",
+          "maxOutput": "64K",
           "modality": "Text",
           "rateLimit": "200 RPD (shared)"
         },
@@ -1139,7 +1139,7 @@
           "id": "nvidia/nemotron-3-super-120b-a12b",
           "name": "nvidia/nemotron-3-super-120b-a12b",
           "context": "1M",
-          "maxOutput": "65K",
+          "maxOutput": "64K",
           "modality": "Text",
           "rateLimit": "200 RPD (shared)"
         },
@@ -1147,7 +1147,7 @@
           "id": "nvidia/nemotron-3.5-lightning-30b-a3b",
           "name": "nvidia/nemotron-3.5-lightning-30b-a3b",
           "context": "1M",
-          "maxOutput": "65K",
+          "maxOutput": "64K",
           "modality": "Text",
           "rateLimit": "200 RPD (shared)"
         },
@@ -1257,7 +1257,7 @@
     },
     {
       "id": 14,
-      "text": "Free models are the ones priced at zero in the [model list](https://www.requesty.ai/free-models), and the set changes as providers add and remove them. The free plan is capped at 200 requests per day in total, shared across all free models, with no credit card and no trial expiry. The catalog flags the NVIDIA hosted free models as possibly using prompts for training. Every row listed here answered a live request on 2026-09-25."
+      "text": "Free models are the ones priced at zero in the [model list](https://www.requesty.ai/models), and the set changes as providers add and remove them. The [free plan](https://www.requesty.ai/free-models) is capped at 200 requests per day in total, shared across all free models, with no credit card and no trial expiry (see [pricing](https://www.requesty.ai/pricing)). The catalog flags the NVIDIA hosted free models as possibly using prompts for training. Every row listed here answered a live request on 2026-09-25."
     }
   ],
   "glossary": [
